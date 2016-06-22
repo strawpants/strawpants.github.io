@@ -1,2 +1,2 @@
-# strawpants.github.io
-Homepage of Roelof Rietbroek (work in progess)
+#strawpants.github.io
+This is a very very early version of a homepage
