@@ -1,23 +1,23 @@
 ---
-title: "Test post"
-description: "See if posts are automatically collected from the directory"
-date: "2016-06-24"
+author:
+  description: Researches geodesy at the University of Bonn
+  email: roelof@wobbly.earth
+  github: https://github.com/
+  image: /images/WBlogo_64x64.png
+  name: Roelof Rietbroek
+  twitter: https://twitter.com/
+  website: http://wobbly.earth/about
+cardbackground: '#263238'
+cardheaderimage: /images/default.jpg
+cardthumbimage: /images/default.jpg
 categories:
-    - "post"
+- post
+date: 2016-06-30T16:50:04+02:00
+description: first post with Hugo website engine
 tags:
-    - "meta"
-    - "test"
-#cardimagelg: "/images/default.jpg"
-#cardimagesm: "/images/default.jpg"
-cardbackground: "#838238" #optional: overwrites default #263238, only shows when no image specified.
-"author":
-    name: "Firstname Lastname"
-    description: "Writer of stuff"
-    website: "http://example.com/"
-    email: "firstname@example.com"
-    twitter: "https://twitter.com/"
-    github: "https://github.com/"
-    image: "/images/avatar-64x64.png"
+- meta
+- test
+title: welcome
 ---
 
-#Blah blah
+This is my post.

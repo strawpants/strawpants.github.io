@@ -281,7 +281,7 @@ body .hugo-blog {
 /*  align-items: center;*/
 /*}*/
 .hugo-blog--blogpost .meta + .mdl-card__supporting-text {
-  border: 0;
+  border: 0;<link rel="icon" href="http://example.com/favicon.png">
   display: flex;
   flex-direction: column;
 }
@@ -319,9 +319,9 @@ body .hugo-blog {
   background-image: url('/images/avatar.jpg');
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 50%;
+  background-size: 90%;
   border-radius: 22px;
-  background-color: #F5F5F5;
+  background-color: transparent;
 }
 /* Fixes for IE 10 */
 .mdl-grid {
@@ -399,12 +399,12 @@ body .hugo-blog {
   width: 150px;
   height: 150px;
   background-image: url('/images/avatar.jpg');
-  background-position: 50% calc(50% + 10px);
+  background-position: center);
   background-repeat: no-repeat;
-  background-size: 95%;
+  background-size: cover;
   border-radius: 50%;
   /*background-color: #F5F5F5;*/
-    background-color: #FFFFFF;
+    background-color: transparent;
   border-style: solid;
   border-color: #789296;
   border-width: 3px;
