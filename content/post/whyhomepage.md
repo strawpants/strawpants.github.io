@@ -3,7 +3,7 @@ author:
   description: Writer of stuff
   email: firstname@example.com
   github: https://github.com/
-  image: /images/avatar-64x64.png
+  image: /images/avatar-64x64.jpg
   name: Firstname Lastname
   twitter: https://twitter.com/
   website: http://example.com/
