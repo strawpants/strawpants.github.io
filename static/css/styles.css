@@ -12,7 +12,7 @@ body::before {
     position: fixed;
 }
 body .hugo-blog {
-  font-family: 'Roboto', 'Helvetica', sans-serif;
+  font-family: 'Dosis', 'Helvetica', sans-serif;
 }
 .hugo-blog .hugo-blog__posts {
   max-width: 900px;
