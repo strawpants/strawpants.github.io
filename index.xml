@@ -6,8 +6,22 @@
     <description>Recent content on Wobbly Earth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jun 2016 16:50:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://wobbly.earth/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://wobbly.earth/about/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/about/</guid>
+      <description>
+
+&lt;h4 id=&#34;current-position&#34;&gt;Current Position&lt;/h4&gt;
+
+&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;
+</description>
+    </item>
     
     <item>
       <title>welcome</title>
@@ -66,36 +80,20 @@
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>http://wobbly.earth/about/</link>
-      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>http://wobbly.earth/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wobbly.earth/about/</guid>
+      <guid>http://wobbly.earth/publications/</guid>
       <description>
 
-&lt;p&gt;90&amp;rsquo;s slow-carb Schlitz Shoreditch mixtape typewriter, wayfarers Austin keffiyeh
-Helvetica artisan flexitarian. Health goth vinyl scenester pickled kitsch.
-Organic slow-carb stumptown freegan, PBR ugh chia Intelligentsia pork belly
-locavore retro kale chips. Tofu put a bird on it squid tattooed beard master
-cleanse, mumblecore keytar mustache blog direct trade PBR&amp;amp;B quinoa.&lt;/p&gt;
+&lt;h3 id=&#34;peer-reviewed-literature&#34;&gt;Peer Reviewed Literature&lt;/h3&gt;
 
-&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;I&amp;rsquo;ll probably make an automated script to gather publications here&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;2015 - Master of Arts in Wine Tasting, University of British Columbia&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;2013 - Bachelor of Arts , University of British Columbia&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Painting with condiments (2015)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;places-i-ve-worked&#34;&gt;Places I&amp;rsquo;ve worked&lt;/h4&gt;
-
-&lt;p&gt;I don&amp;rsquo;t work :(&lt;/p&gt;
+&lt;h3 id=&#34;other-publications-conferences-invited-talks-etc&#34;&gt;Other publications, Conferences, Invited Talks, etc.&lt;/h3&gt;
 </description>
     </item>
     
