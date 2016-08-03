@@ -8,6 +8,7 @@ cardheaderimage: "/images/schuifmaat.jpg" #optional: default solid color if unse
 
 ### Peer Reviewed Literature
 1. I'll probably make an automated script to gather publications here
+
 ### Other publications, Conferences, Invited Talks, etc.
 
 

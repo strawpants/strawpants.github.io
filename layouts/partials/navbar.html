@@ -9,21 +9,21 @@
             <div class="mdl-layout-spacer"></div>
             <!-- Navigation -->
             <nav class="mdl-navigation">
-                <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/" | safeHTML)}}active{{end}}{{end}}' href="/">Home</a>
-                <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/post/" | safeHTML)}}active{{end}}{{end}}' href="/post">Posts</a>
-                <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/project/" | safeHTML)}}active{{end}}{{end}}' href="/project">Projects</a>
-                <a class='mdl-navigation__link {{if .IsPage}}{{if eq (relURL .Permalink) ("/publications/" | safeHTML)}}active{{end}}{{end}}' href="/publications">Publications</a>
-                <a class='mdl-navigation__link {{if .IsPage}}{{if eq (relURL .Permalink) ("/about/" | safeHTML)}}active{{end}}{{end}}' href="/about">About</a>
+                <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/" | safeHTML)}}active mdl-color-text--accent{{end}}{{end}}' href="/">Home</a>
+                <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/post/" | safeHTML)}}active mdl-color-text--accent{{end}}{{end}}' href="/post">Posts</a>
+                <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/project/" | safeHTML)}}active mdl-color-text--accent{{end}}{{end}}' href="/project">Projects</a>
+                <a class='mdl-navigation__link {{if .IsPage}}{{if eq (relURL .Permalink) ("/publications/" | safeHTML)}}active mdl-color-text--accent{{end}}{{end}}' href="/publications">Publications</a>
+                <a class='mdl-navigation__link {{if .IsPage}}{{if eq (relURL .Permalink) ("/about/" | safeHTML)}}active mdl-color-text--accent{{end}}{{end}}' href="/about">About</a>
             </nav>
         </div>
     </header>
     <div class="mdl-layout__drawer">
         {{ if eq .Title "Projects" }}<span class="mdl-layout-title">{{ title .Title }}</span>{{end}}
         <nav class="mdl-navigation">
-            <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/" | safeHTML)}}active{{end}}{{end}}' href="/">Home</a>
-            <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/post/" | safeHTML)}}active{{end}}{{end}}' href="/post">Articles</a>
-            <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/project/" | safeHTML)}}active{{end}}{{end}}' href="/project">Projects</a>
-            <a class='mdl-navigation__link {{if .IsPage}}{{if eq (relURL .Permalink) ("/publications/" | safeHTML)}}active{{end}}{{end}}' href="/publications">Publications</a>
-            <a class='mdl-navigation__link {{if .IsPage}}{{if eq (relURL .Permalink) ("/about/" | safeHTML)}}active{{end}}{{end}}' href="/about">About</a>
+            <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/" | safeHTML)}}active mdl-color-text--accent{{end}}{{end}}' href="/">Home</a>
+            <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/post/" | safeHTML)}}active mdl-color-text--accent{{end}}{{end}}' href="/post">Posts</a>
+            <a class='mdl-navigation__link {{if .IsNode}}{{if eq (relURL .URL) ("/project/" | safeHTML)}}active mdl-color-text--accent{{end}}{{end}}' href="/project">Projects</a>
+            <a class='mdl-navigation__link {{if .IsPage}}{{if eq (relURL .Permalink) ("/publications/" | safeHTML)}}active mdl-color-text--accent{{end}}{{end}}' href="/publications">Publications</a>
+            <a class='mdl-navigation__link {{if .IsPage}}{{if eq (relURL .Permalink) ("/about/" | safeHTML)}}active mdl-color-text--accent{{end}}{{end}}' href="/about">About</a>
         </nav>
     </div>
