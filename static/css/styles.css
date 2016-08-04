@@ -14,7 +14,7 @@ background-size:cover;
 }
 
 body .hugo-blog {
-  font-family: 'Cabin', 'Helvetica', sans-serif;
+ /* font-family: 'Open Sans','Cabin', sans-serif;*/
   font-size: 16px;
 }
 .hugo-blog .hugo-blog__posts {
@@ -320,7 +320,7 @@ body .hugo-blog {
 .hugo-blog .minilogo {
   width: 44px;
   height: 44px;
-  background-image: url('/images/avatar.jpg');
+  /*background-image: url('/images/avatar.jpg');*/
   background-position: center;
   background-repeat: no-repeat;
   background-size: 90%;
@@ -405,7 +405,7 @@ body .hugo-blog {
 .hugo-blog .about .profile-pic-container .profilepic {
   width: 150px;
   height: 150px;
-  background-image: url('/images/avatar.jpg');
+  /*background-image: url('/images/avatar.jpg');*/
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 50%;
@@ -452,4 +452,9 @@ font-size:1.2em;
   font-size: 1.2em;
   line-height: 20px;
   text-decoration: none;
+}
+
+.hugo-blog .csl-entry{
+line-height:1.4em;
+margin:5px
 }

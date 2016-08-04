@@ -14,12 +14,12 @@ blurb: "Scientist, applying geodetic techniques to study the Ocean, Hydrosphere,
 recentposts: 1
 recentprojects: 1
 photo: "/images/avatar.png"
-cardheaderimage: "/images/default.jpg" #optional: default solid color if unset
+cardheaderimage: "/images/schuifmaat.jpg" #optional: default solid color if unset
 cardbackground: "#263238" #optional: card background color; only shows when no image specified
 ---
 
 #### Current Position
-
+avledgalkd
 #### Education
 
 

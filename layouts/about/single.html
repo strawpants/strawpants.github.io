@@ -4,7 +4,7 @@
   <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
 
     <div class="mdl-card__media about-media" style="{{with .Params.cardheaderimage}}background-image: url('{{.}}');{{end}} {{with .Params.cardbackground}}background-color:{{.}};{{end}}">
-      <div class="profile-pic-container">
+      <div class="profile-pic-container mdl-color-text--accent">
         <div class="profilepic" style="background-image: url('{{ .Site.Params.avatar }}');"></div>
       </div>
     </div>
