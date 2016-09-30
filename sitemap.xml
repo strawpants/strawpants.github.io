@@ -4,25 +4,35 @@
   <url>
     <loc>http://wobbly.earth/</loc>
     <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://wobbly.earth/post/welcome/</loc>
     <lastmod>2016-09-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://wobbly.earth/project/bandaid/</loc>
     <lastmod>2016-09-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://wobbly.earth/about/</loc>
     <lastmod>2016-09-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://wobbly.earth/publications/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
