@@ -6,8 +6,17 @@
     <description>Recent content on Wobbly Earth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Oct 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://wobbly.earth/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Publications</title>
+      <link>http://wobbly.earth/publications/</link>
+      <pubDate>Sun, 02 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/publications/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Your academic homepage: outreach booster or narcissistic outlet?</title>
@@ -23,7 +32,7 @@
 
 &lt;p&gt;The best response I got when discussing the starting of blog with friends was probably in the line of &amp;ldquo;Good on you!: but don&amp;rsquo;t you think a homepage is a tad archaic?&amp;ldquo;. Well &lt;a href=&#34;http://www.igg.uni-bonn.de/apmg/index.php?id=rietbroek&#34;&gt;my institutional homepage&lt;/a&gt; sure has a pretty archaic look, and, frustatingly, I can&amp;rsquo;t change that. Interestingly, that&amp;rsquo;s also my prime reason to venture into this: &amp;ldquo;having the freedom to design and style your own public appearance, and being able to better manage your own outreach efforts. Of course one could try to reach out using a facebook profile, but frankly speaking, I don&amp;rsquo;t want facebook to take control over my homepage, and bombard you with irrelevant information (i.e. adds), although I&amp;rsquo;ll certainly use it to share links to reach a wider audience.&lt;/p&gt;
 
-&lt;div class=&#34;highlight&#34; style=&#34;background: #f0f0f0&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span style=&#34;color: #007020; font-weight: bold&#34;&gt;while&lt;/span&gt; ( Outreach &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&lt;/span&gt; Publications ){&lt;span style=&#34;color: #666666&#34;&gt;++&lt;/span&gt;Publications;}
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f0f0f0&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #007020; font-weight: bold&#34;&gt;while&lt;/span&gt; ( Outreach &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&lt;/span&gt; Publications ){&lt;span style=&#34;color: #666666&#34;&gt;++&lt;/span&gt;Publications;}
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -116,7 +125,7 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>Research Profile</title>
       <link>http://wobbly.earth/about/</link>
       <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
       
@@ -223,15 +232,6 @@ There are several courses I teach/taught and practicals I supervise. Most of the
 &lt;li&gt;FIGO: Fingerprints of ice melting in geodetic GRACE and ocean models &lt;a href=&#34;http://massentransporte.de/index.php?id=214&#34;&gt;former project site&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://wobbly.earth/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://wobbly.earth/publications/</guid>
-      <description></description>
     </item>
     
   </channel>

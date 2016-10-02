@@ -6,11 +6,20 @@
     <description>Recent content in Bio on Wobbly Earth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Oct 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://wobbly.earth/categories/bio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About</title>
+      <title>Publications</title>
+      <link>http://wobbly.earth/publications/</link>
+      <pubDate>Sun, 02 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Profile</title>
       <link>http://wobbly.earth/about/</link>
       <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
       
@@ -117,15 +126,6 @@ There are several courses I teach/taught and practicals I supervise. Most of the
 &lt;li&gt;FIGO: Fingerprints of ice melting in geodetic GRACE and ocean models &lt;a href=&#34;http://massentransporte.de/index.php?id=214&#34;&gt;former project site&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://wobbly.earth/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://wobbly.earth/publications/</guid>
-      <description></description>
     </item>
     
   </channel>

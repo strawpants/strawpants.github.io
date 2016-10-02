@@ -74,6 +74,30 @@ text-decoration:underline;
   padding: 0;
   border-bottom: 1px solid #dcdcdc;
 }
+.hugo-blog .mdl-card .mdl-card__list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding:5px
+}
+
+
+
+
+
+.hugo-blog .mdl-card .mdl-card__list-item .mdl-list-primary-content {
+  display: flex;
+  align-items: center;
+    
+}
+
+
+.hugo-blog .mdl-card .mdl-card__list-item .mdl-list-secondary-content {
+min-width:65%;
+    /*right:20px;
+  position: absolute;*/
+}
+
 .hugo-blog .hugo-blog__list .mdl-card .mdl-card__list-item a {
   text-decoration: none;
 }
@@ -81,8 +105,12 @@ text-decoration:underline;
   text-decoration: underline;
 }
 
-.hugo-blog .mdl-card .mdl-card__list-item a {
+.hugo-blog .mdl-card .mdl-card__supporting-text a {
   text-decoration: none;
+}
+
+.hugo-blog .mdl-card .mdl-card__supporting-text a:hover {
+  text-decoration: underline;
 }
 
 .hugo-blog .mdl-card .mdl-card__list-item a:hover {
@@ -150,7 +178,7 @@ text-decoration:underline;
 }
 .hugo-blog .meta {
   box-sizing: border-box;
-  padding: 16px;
+  padding: 10px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -162,6 +190,15 @@ text-decoration:underline;
   margin: 0 8px;
   font-size: 13px;
   font-weight: 500;
+}
+
+.hugo-blog .meta a{
+text-decoration:none;
+    
+}
+.hugo-blog .meta a:hover{
+text-decoration:underline;
+    
 }
 .hugo-blog .material-icons {
   font-size: 26px;
@@ -352,7 +389,7 @@ text-decoration:underline;
   flex-grow: 1;
 }
 .hugo-blog .minilogo {
-  width: 44px;
+  min-width: 44px;
   height: 44px;
   /*background-image: url('/images/avatar.jpg');*/
   background-position: center;
@@ -360,6 +397,12 @@ text-decoration:underline;
   background-size: 90%;
   border-radius: 22px;
   background-color: transparent;
+}
+
+.hugo-blog .mdl-layout-title .minilogo{
+width:64px;
+height:64px;
+    
 }
 /* Fixes for IE 10 */
 .mdl-grid {
