@@ -35,11 +35,11 @@ flex-direction: column;
     font-family: 'Open Sans','Helvetica', sans-serif;
 }
 
-.hugo-blog p a{
+.hugo-blog a{
 text-decoration:none;
     
 }
-.hugo-blog p a:hover{
+.hugo-blog a:hover{
 text-decoration:underline;
     
 }
@@ -93,7 +93,7 @@ text-decoration:underline;
 
 
 .hugo-blog .mdl-card .mdl-card__list-item .mdl-list-secondary-content {
-min-width:65%;
+/* min-width:65%; */
     /*right:20px;
   position: absolute;*/
 }
@@ -578,6 +578,7 @@ font-size:1.2em;
    height:1.9em;
    
 }
+
 
 .hugo-blog .twitter-share{
     background-color:#1da1f2;
