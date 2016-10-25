@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on Wobbly Earth</title>
+    <link>http://wobbly.earth/tags/meta/</link>
+    <description>Recent content in Meta on Wobbly Earth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://wobbly.earth/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wobbly Earth</title>
+      <link>http://wobbly.earth/post/wobbly/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/post/wobbly/</guid>
+      <description>
+
+&lt;h3 id=&#34;a-jellypudding-orbiting-the-sun&#34;&gt;A Jellypudding orbiting the Sun&lt;/h3&gt;
+
+&lt;p&gt;Most people think the Earth is a sphere, while geodesists joke that the Earth&amp;rsquo;s is a potato. In fact, you can even find people who believe the Earth is flat and only 6000 years old.  Asking me, I would happily claim that the Earth is a giant jellypudding.&lt;/p&gt;
+
+&lt;p&gt;I kind of like that concept, because it helps me to explain my research.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jelly on Wobbly Earth</title>
+    <link>http://wobbly.earth/tags/jelly/</link>
+    <description>Recent content in Jelly on Wobbly Earth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://wobbly.earth/tags/jelly/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wobbly Earth</title>
+      <link>http://wobbly.earth/post/wobbly/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/post/wobbly/</guid>
+      <description>
+
+&lt;h4 id=&#34;the-jellypudding-analogy&#34;&gt;The Jellypudding Analogy&lt;/h4&gt;
+
+&lt;p&gt;Most people think the Earth is a sphere, while geodesists joke that &lt;a href=&#34;http://www.gfz-potsdam.de/en/media-communication/mediathek/image-galleries/geoid-the-potsdam-gravity-potato/&#34;&gt;the Earth&amp;rsquo;s is a potato&lt;/a&gt;. And you can even find people who believe the Earth is flat and only 6000 years old.  If it was up to me, I would happily claim that the Earthe is a giant jellypudding.&lt;/p&gt;
+
+&lt;p&gt;The jellypudding analogy helps in explaining some important concepts I use regularly in my research, and it sheds some light on the reason why I chose the domain &lt;a href=&#34;http://wobbly.earth/&#34;&gt;wobbly.earth&lt;/a&gt;.&lt;br /&gt;
+If you substitute the solid part of the Earth by jelly, it is not hard to understand that, when revolving around the sun, the Earth is going to wobble a fair bit along the way. In reality, these wobbles are much much smaller than when the Earth would be made of jelly, but they are nevertheless detectable by accurate geodetic measurements techniquess.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-eart-rotation-is-not-constant&#34;&gt;the eart rotation is not constant&lt;/h4&gt;
+
+&lt;h4 id=&#34;mass-movement-causes-the-earth-to-deform-elastic-visco-elastic&#34;&gt;mass movement causes the Earth to deform (elastic visco-elastic)&lt;/h4&gt;
+
+&lt;h4 id=&#34;the-center-of-mass-and-center-of-figure-move-with-respect-to-each-other&#34;&gt;The center of mass and center of figure move with respect to each other&lt;/h4&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
