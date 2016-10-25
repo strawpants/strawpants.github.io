@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Wobbly Earth</title>
-    <link>http://wobbly.earth/post/</link>
-    <description>Recent content in Posts on Wobbly Earth</description>
+    <title>Somewhat Technical on Wobbly Earth</title>
+    <link>http://wobbly.earth/levels/somewhat-technical/</link>
+    <description>Recent content in Somewhat Technical on Wobbly Earth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Oct 2016 01:36:00 +0200</lastBuildDate>
-    <atom:link href="http://wobbly.earth/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wobbly.earth/levels/somewhat-technical/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Guess what: Sea level does rise when you melt floating ice</title>
@@ -176,54 +176,6 @@
 &lt;/ol&gt;
 
 &lt;p&gt;To conclude, although floating ice is not expected to directly contribute much to global mean sea level rise, it&amp;rsquo;s contribution to regional sea level may be large enough to be detectable with sea surface height measurements such as those from for example radar altimetry. The above experiment comes with it&amp;rsquo;s assumptions (e.g. no cicrulation and energy exchange with the surrounding waters), but can nevertheless be used as a conceptual model. Readers who find errors in the code are of course encouraged to report this.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Your academic homepage: outreach booster or narcissistic outlet?</title>
-      <link>http://wobbly.earth/post/welcome/</link>
-      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://wobbly.earth/post/welcome/</guid>
-      <description>
-
-&lt;h4 id=&#34;do-you-really-need-an-academic-homepage&#34;&gt;Do you really need an academic homepage?&lt;/h4&gt;
-
-&lt;p&gt;Considering the abundance of academic homepages and blogs around, I&amp;rsquo;m certainly not the only one who asked himself that question. I&amp;rsquo;ve been playing with the idea of making one myself for a quite a while now, and finally decided to give it a shot. You&amp;rsquo;re currently looking at the result. For those of you interested in the technical details or the idea behind the domain name, there are posts in the making on that.&lt;/p&gt;
-
-&lt;p&gt;The best response I got when discussing the starting of blog with friends was probably in the line of &amp;ldquo;Good on you!: but don&amp;rsquo;t you think a homepage is a tad archaic?&amp;ldquo;. Well &lt;a href=&#34;http://www.igg.uni-bonn.de/apmg/index.php?id=rietbroek&#34;&gt;my institutional homepage&lt;/a&gt; sure has a pretty archaic look, and, frustatingly, I can&amp;rsquo;t change that. Interestingly, that&amp;rsquo;s also my prime reason to venture into this: &amp;ldquo;having the freedom to design and style your own public appearance, and being able to better manage your own outreach efforts. Of course one could try to reach out using a facebook profile, but frankly speaking, I don&amp;rsquo;t want facebook to take control over my homepage, and bombard you with irrelevant information (i.e. adds), although I&amp;rsquo;ll certainly use it to share links to reach a wider audience.&lt;/p&gt;
-
-&lt;div class=&#34;highlight&#34; style=&#34;background: #f0f0f0&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #007020; font-weight: bold&#34;&gt;while&lt;/span&gt; ( Outreach &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&lt;/span&gt; Publications ){&lt;span style=&#34;color: #666666&#34;&gt;++&lt;/span&gt;Publications;}
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Unfortunately, in the current academic situation, outreach efforts are still underappreciated compared to publishing papers, so the incentive clearly lies at publishing more papers instead of building a blog. Most of the research grants I&amp;rsquo;ve seen put the weight (=resources) on researching and publishing in respectable journals, compared to outreach activities (if specified at all).&lt;/p&gt;
-
-&lt;p&gt;That is not to say that people don&amp;rsquo;t want researchers to reach out to the general public. Recently, Sander Dekker, dutch secretary of the ministery of education, culture and research, plead that &lt;a href=&#34;http://www.scienceguide.nl/201609/de-echte-waarde-van-wetenschap.aspx&#34;&gt;researchers have the moral duty to communicate their findings to the general public&lt;/a&gt;, but sadly failed to acknowledge that researchers are expected to do this voluntarily in their own (precious) time.&lt;/p&gt;
-
-&lt;p&gt;I do have the feeling though that there is a paradigm shift going on. For example, Rolf Hut voiced this in stating that &lt;a href=&#34;http://rolfhut.nl/2016/07/27/why-scientists-should-write-blogs-instead-of-articles/&#34;&gt;scientists should write blogs instead of articles&lt;/a&gt;. I sure won&amp;rsquo;t refrain from writing papers, but it is food for thought, and one&amp;rsquo;s results surely would reach a broader audience.&lt;/p&gt;
-
-&lt;p&gt;But there are also other signs that outreach efforts are getting more important. I personally really like the outreach efforts of the EU funded &lt;a href=&#34;http://www.egsiem.eu&#34;&gt;EGSIEM project&lt;/a&gt;. The website offers regular blogposts on the project&amp;rsquo;s activities, where I should mention that it is a remarkable achievement to gather so many blogposts from fellow scientists, who are busy writing papers.&lt;/p&gt;
-
-&lt;p&gt;In Germany, the science funding body &lt;a href=&#34;http://www.dfg.de&#34;&gt;DFG&lt;/a&gt; is putting effort in setting an example. Since january 2016, they have their own &lt;a href=&#34;https://twitter.com/dfg_public&#34;&gt;twitter account&lt;/a&gt; (woop woop!). And since june 2016, they started making &lt;a href=&#34;http://www.dfg.de/klimataucher&#34;&gt;videos&lt;/a&gt; of climate related research targeted at a broader german public.&lt;/p&gt;
-
-&lt;h4 id=&#34;what-if-your-homepage-turns-into-a-narcissistic-outlet&#34;&gt;What if your homepage turns into a narcissistic outlet?&lt;/h4&gt;
-
-&lt;p&gt;Surely, I hope that the occasional visitor of this website is entertained and informed, instead of being bored by a polished profile of an apparent &lt;a href=&#34;https://scholar.google.nl/citations?user=qGuYgMsAAAAJ&amp;amp;hl=en&#34;&gt;academic research superstar&lt;/a&gt;. That being said, I do intend to show a bit of myself, and to highlight my own research work. And sharing such things should be an enjoyable activity, otherwise it doesn&amp;rsquo;t make sense to start a blog in the first place. Furthermore, shouldn&amp;rsquo;t the researcher himself be the ideal person to disseminate his research to wider public?&lt;/p&gt;
-
-&lt;h4 id=&#34;double-barrel-science-communication&#34;&gt;Double barrel science communication&lt;/h4&gt;
-
-&lt;p&gt;However some may argue that researchers have the tendency to stay too technical (read: boring) when communicating science, and that this task should better be left to journalists. &lt;a href=&#34;https://www.theguardian.com/science/life-and-physics/2016/apr/16/justin-trudeau-and-quantum-computers&#34;&gt;Although some journalists think it&amp;rsquo;s even better to have politicians explain the science&lt;/a&gt;.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/rRmv4uD2RQ4?&#34; 
-  style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The problem with journalistic stories is that they often filter out a fair share of relevant science while shaping the story around dramatic headlines. Honestly, you can&amp;rsquo;t really blame the journalists for doing this, as they &lt;a href=&#34;http://www.bbc.com/news/uk-wales-34213693&#34;&gt;crucially depend on clicks&lt;/a&gt;, but it may deform the results of the actual study.&lt;/p&gt;
-
-&lt;p&gt;But who said that you have to choose? Maybe it&amp;rsquo;s better to go for a double barrel approach and use both the professional media and a direct piece by the scientist. In such situations, if you have your academic homepage up and running, don&amp;rsquo;t you think it is an ideal place to add those extra bits of science?&lt;/p&gt;
 </description>
     </item>
     
