@@ -175,7 +175,11 @@
 &lt;li&gt;The temperature drop of the sea water increases when starting of with warmer waters.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;To conclude, although floating ice is not expected to directly contribute much to global mean sea level rise, it&amp;rsquo;s contribution to regional sea level may be large enough to be detectable with sea surface height measurements such as those from for example radar altimetry. The above experiment comes with it&amp;rsquo;s assumptions (e.g. no cicrulation and energy exchange with the surrounding waters), but can nevertheless be used as a conceptual model. Readers who find errors in the code are of course encouraged to report this.&lt;/p&gt;
+&lt;p&gt;To conclude, although floating ice is not expected to directly contribute much to global mean sea level rise, it&amp;rsquo;s contribution to regional sea level may be large enough to be detectable with sea surface height measurements such as those from for example radar altimetry.&lt;/p&gt;
+
+&lt;p&gt;It is worth noting that, even for global mean sea level rise, the volumetric changes due to melting of ice shelfs do cause a small net sea level rise. &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1029/2010GL042496/full&#34;&gt;Shepherd et al. 2010&lt;/a&gt; found a net contribution of  49 ± 8 microns per year, which is small compared to the currently observed global mean sea level rate of about 3 mm/yr.&lt;/p&gt;
+
+&lt;p&gt;The above experiment comes with it&amp;rsquo;s assumptions (e.g. no circulation and energy exchange with the surrounding waters), but can nevertheless be used as a conceptual model. Readers who find errors in the code are of course encouraged to report this.&lt;/p&gt;
 </description>
     </item>
     

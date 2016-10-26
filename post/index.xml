@@ -175,7 +175,11 @@
 &lt;li&gt;The temperature drop of the sea water increases when starting of with warmer waters.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;To conclude, although floating ice is not expected to directly contribute much to global mean sea level rise, it&amp;rsquo;s contribution to regional sea level may be large enough to be detectable with sea surface height measurements such as those from for example radar altimetry. The above experiment comes with it&amp;rsquo;s assumptions (e.g. no cicrulation and energy exchange with the surrounding waters), but can nevertheless be used as a conceptual model. Readers who find errors in the code are of course encouraged to report this.&lt;/p&gt;
+&lt;p&gt;To conclude, although floating ice is not expected to directly contribute much to global mean sea level rise, it&amp;rsquo;s contribution to regional sea level may be large enough to be detectable with sea surface height measurements such as those from for example radar altimetry.&lt;/p&gt;
+
+&lt;p&gt;It is worth noting that, even for global mean sea level rise, the volumetric changes due to melting of ice shelfs do cause a small net sea level rise. &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1029/2010GL042496/full&#34;&gt;Shepherd et al. 2010&lt;/a&gt; found a net contribution of  49 ± 8 microns per year, which is small compared to the currently observed global mean sea level rate of about 3 mm/yr.&lt;/p&gt;
+
+&lt;p&gt;The above experiment comes with it&amp;rsquo;s assumptions (e.g. no circulation and energy exchange with the surrounding waters), but can nevertheless be used as a conceptual model. Readers who find errors in the code are of course encouraged to report this.&lt;/p&gt;
 </description>
     </item>
     
@@ -193,7 +197,7 @@
 
 &lt;p&gt;The best response I got when discussing the starting of blog with friends was probably in the line of &amp;ldquo;Good on you!: but don&amp;rsquo;t you think a homepage is a tad archaic?&amp;ldquo;. Well &lt;a href=&#34;http://www.igg.uni-bonn.de/apmg/index.php?id=rietbroek&#34;&gt;my institutional homepage&lt;/a&gt; sure has a pretty archaic look, and, frustatingly, I can&amp;rsquo;t change that. Interestingly, that&amp;rsquo;s also my prime reason to venture into this: &amp;ldquo;having the freedom to design and style your own public appearance, and being able to better manage your own outreach efforts. Of course one could try to reach out using a facebook profile, but frankly speaking, I don&amp;rsquo;t want facebook to take control over my homepage, and bombard you with irrelevant information (i.e. adds), although I&amp;rsquo;ll certainly use it to share links to reach a wider audience.&lt;/p&gt;
 
-&lt;div class=&#34;highlight&#34; style=&#34;background: #f0f0f0&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #007020; font-weight: bold&#34;&gt;while&lt;/span&gt; ( Outreach &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&lt;/span&gt; Publications ){&lt;span style=&#34;color: #666666&#34;&gt;++&lt;/span&gt;Publications;}
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f0f0f0&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span style=&#34;color: #007020; font-weight: bold&#34;&gt;while&lt;/span&gt; ( Outreach &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&lt;/span&gt; Publications ){&lt;span style=&#34;color: #666666&#34;&gt;++&lt;/span&gt;Publications;}
 &lt;/pre&gt;&lt;/div&gt;
 
 
