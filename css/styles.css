@@ -637,4 +637,11 @@ border-bottom-right-radius: 2px;
     
 }
 
-
+.hugo-blog .hugo-textoverimage{
+    display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  background-color:rgba(0,0,0,0.2);
+  border-radius:2px;
+  padding:5px;
+}
