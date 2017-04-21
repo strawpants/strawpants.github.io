@@ -6,8 +6,138 @@
     <description>Recent content on Wobbly Earth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Oct 2016 01:36:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 Feb 2017 20:51:17 +1100</lastBuildDate>
     <atom:link href="http://wobbly.earth/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scientists! Encrypt your mail if you got nothing to hide</title>
+      <link>http://wobbly.earth/post/GPG_withPforParanoid/</link>
+      <pubDate>Wed, 15 Feb 2017 20:51:17 +1100</pubDate>
+      
+      <guid>http://wobbly.earth/post/GPG_withPforParanoid/</guid>
+      <description>
+
+&lt;p&gt;Up to now, I never bothered to encrypt my email as my attitude was that, as a scientist, I got nothing to hide. But in light of the recently installed science-deprived administration in the US, I&amp;rsquo;m starting to think that a healthy streak of paranoia wouldn&amp;rsquo;t harm after all.&lt;/p&gt;
+
+&lt;h4 id=&#34;encrypting-for-the-sake-of-transparency&#34;&gt;Encrypting for the Sake of Transparency?&lt;/h4&gt;
+
+&lt;p&gt;So here&amp;rsquo;s what I&amp;rsquo;ve been thinking about lately: Would encrypting email between scientists (and journalists) actually serve the scientific pursuit? Somewhat ironically, will it aid in scientific transparency  by actually preventing censorship and politically motivated interference? I&amp;rsquo;m increasingly inclined to think so, but at the same time, I&amp;rsquo;m ridiculing myself for having these paranoid thoughts and I don&amp;rsquo;t want to be the one who&amp;rsquo;s scaremongering. Furthermore, I realize that admitting that you encrypt your email may invigorate conspiracy theories by those who are susceptible. However, under normal circumstances, using an encrypted or unecrypted email wouldn&amp;rsquo;t make any difference at all, and I simply see it as having an additional insurance against unauthorized access.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://wobbly.earth/images/snowden-blanket.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Better safe than sorry? Edward Snowden covers himself and laptop while typing his password.&lt;/h4&gt;
+        &lt;p&gt;
+        
+        
+            Source: Still from Citizenfour (2014)
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;your-email-may-be-deliberately-taken-out-of-proportions&#34;&gt;Your email may be deliberately taken out of proportions&lt;/h4&gt;
+
+&lt;p&gt;The prime example of emails being deliberately misinterpreted is the &lt;a href=&#34;https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy&#34;&gt;&lt;em&gt;Climate Gate Controversy&lt;/em&gt;&lt;/a&gt;. Where an email server of the Climate Research Unit at the university of East Anglia was hacked in 2009 and more than thousand of &lt;em&gt;unencrypted&lt;/em&gt; emails were stolen. An email where Phil Jones mentions the use of a &amp;ldquo;trick&amp;rdquo; of Michael Mann to &amp;ldquo;hide the decline&amp;rdquo; (in temperature) was exposed in the media as &amp;lsquo;proof&amp;rsquo; that climate scientists were deliberately misleading the public. However, a closer look revealed that it referred to a method to remove a spurious trend in tree-ring temperature reconstruction in favour of more accurate thermometer data, a common and scientifically accepted practice.  And although &lt;a href=&#34;http://www.wri.org/blog/2010/07/summarizing-investigations-climate-science&#34;&gt;subsequent investigations cleared the scientists of data manipulation and left the science intact&lt;/a&gt;, these allegations were harmful to (climate) science, and resulted in serious personal threats to the scientists. I can only imagine how frustrating and time consuming it must have been to rebute such claims.&lt;/p&gt;
+
+&lt;p&gt;Considering the amount of emails we send today, it&amp;rsquo;s probably quite easy to find quotes in our inbox which could be falsely interpreted by people lacking context. It therefore seems fair to lock/encrypt your email, to make sure only the recipients get to read them. Sure, if some emails need to be shared for the sake of transparency, one could decide to that on a case by case basis. But letting hackers and &lt;a href=&#34;http://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban&#34;&gt;governments frenzy at ones inbox&lt;/a&gt; is outrageous and counterproductive. Failing to encrypt your email, opens the door to unauthorized people nosing through your email, which can have disastrous consequences, ask Hillary Clinton.&lt;/p&gt;
+
+&lt;h4 id=&#34;staying-ahead-of-the-trump-administration&#34;&gt;Staying ahead of the Trump administration&lt;/h4&gt;
+
+&lt;p&gt;The installment of anti-science cabinet members of the Trump administration and the actions it has taken &lt;a href=&#34;https://arstechnica.com/science/2017/01/have-politics-trumped-science/&#34;&gt;suggest rough times ahead for US and international science&lt;/a&gt;. The possibility of the new administration to censor science in order to push their conflicting policies, seems to become more realistic by the day, and fears that it would hurt the transparency of science don&amp;rsquo;t seem so farfetched anymore. Already, &lt;a href=&#34;https://www.washingtonpost.com/news/powerpost/wp/2016/12/13/energy-dept-rejects-trumps-request-to-name-climate-change-workers-who-remain-worried/&#34;&gt;the new administration attempted to get a list of employees working on climate-related issues at the Department of Energy&lt;/a&gt;. What would they have done with the people on this list? Check their email? Furthermore, the Environmental Protection Agency (EPA), essentially responsible for implementing the Paris Climate Agreement, &lt;a href=&#34;http://www.reuters.com/article/us-usa-trump-epa-climatechange-idUSKBN15906G&#34;&gt;was ordered to have its climate section removed from its website&lt;/a&gt;. The &lt;a href=&#34;https://www.epa.gov/climatechange&#34;&gt;website&lt;/a&gt; is intended to inform the general public about how climate change has affected and will likely affect the US, and outlines the possibilities for taking actions. The desire of the administration to take out this site essentially sends out the message that it doesn&amp;rsquo;t want the public to be informed about science.&lt;/p&gt;
+
+&lt;p&gt;So will this administration go as far as to start to monitor the inboxes of scientists? And, on the basis of that information, will they try to prevent scientific research from being published which go against their policies and ramp up gagging orders? I sincerely hope not, but I think it is in the best interest of science to keep ahead and let this administration know of scientific findings &lt;em&gt;after&lt;/em&gt; being published out in the open. Encrypting your email when you speak to colleagues, journalists and press outlets, is a powerful way to aid this process. Media outlets such as the Guardian are seeing the importance of this and actually &lt;a href=&#34;https://www.theguardian.com/help/2016/sep/19/how-to-contact-the-guardian-securely&#34;&gt;provide guideslines to contact them in safe ways&lt;/a&gt;, but among scientists, encrypting email still seems to be a remote concept.&lt;/p&gt;
+
+&lt;h4 id=&#34;so-how-does-email-encryption-work&#34;&gt;So how does email encryption work?&lt;/h4&gt;
+
+&lt;p&gt;Most of the time, when an email program (outlook, thunderbird, etc..) contacts the email server the transport over the internet will be encrypted via a secure protocol (e.g. &lt;a href=&#34;https://en.wikipedia.org/wiki/Transport_Layer_Security&#34;&gt;TLS&lt;/a&gt;). Although most email-servers will drop the security layer when either sender or receiver does not support it, it will work for most modern email-programs and browsers, ensuring that intercepted emails can not be decrypted without disproportionate efforts. Generally however, &lt;em&gt;your inbox will still be stored unencrypted at the email server&lt;/em&gt;, and may therefore be easily read when the server is compromised.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://wobbly.earth/images/Orange_blue_public_key_cryptography_en.svg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Use the public key for encrypting and the secret key for decrypting&lt;/h4&gt;
+        &lt;p&gt;
+        
+        
+            Source: Wikimedia commons
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;A few email providers allow users to store encrypted inboxes on their servers. For example, Protonmail, &lt;a href=&#34;https://home.cern/about/updates/2014/05/cern-inspires-entrepreneurs-email-encryption&#34;&gt;designed by former CERN scientists&lt;/a&gt; offers such services as well as the Berlin based company &lt;a href=&#34;https://posteo.de/en&#34;&gt;posteo&lt;/a&gt;. Most of the time however you can&amp;rsquo;t choose your email provider for work related emailing, which means that you can&amp;rsquo;t control how your inbox is stored on its servers.&lt;/p&gt;
+
+&lt;p&gt;However, you can in fact, choose to &lt;strong&gt;store encrypted messages in your unencrypted inbox&lt;/strong&gt;. For this to work, you can use the open source public key cryptography implementation of PGP (Pretty Good Privacy) confusingly abbreviated as GPG &lt;a href=&#34;https://www.gnupg.org&#34;&gt;(GNU Privacy Guard)&lt;/a&gt;. At the end of this post a few helpful links will be provided in order to allow you to set up email encryption on your devices of choice.&lt;/p&gt;
+
+&lt;p&gt;GPG is a so called assymetric encryption implementation. During its setup the user creates a encryption key-pair which contains a public part and a private (or secret) part. The idea is that everybody who&amp;rsquo;s got the public key is able to encrypt a message and send it to you. However, only the owner of the secret key is able to decrypt the message, not even the sender. Mathematically, the principle relies on the theory that it&amp;rsquo;s easy to multiply 2 (very large) prime numbers, but it is computationally very hard to recover those primes if only the product is available. If some genius mathematician would come up with a way to find these primes in considerable less time as expected, it would mean the end of many encryption methods we know.&lt;/p&gt;
+
+&lt;p&gt;There are a few things to keep in mind about using GPG:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The secret key must be kept stored only on devices one trusts, and must not be handed out to anyone else. Remember, anyone with the secret key can decrypt your messages. Then again, you won&amp;rsquo;t be able to decrypt your messages when you lose your secret key. Note that the entire system breaks down when the end device (laptop, cell phone, etc) is compromised. You commonly store your secret key by encrypting it again with a password, but of course this won&amp;rsquo;t help when a keylogger is installed.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;To prevent man-in-the-middle attacks, getting someones public key must go over a trusted channel. Otherwise, the man in the middle may sneak in a compromised public key allowing him to decrypt and encrypt the message while on the way to the real recipient. The analog way essentially involves meeting with somebody in person, checking that she/he is actually the person, and then handwrite the key down on a piece of paper. However in practice, one exchanges a fingerprint, which allows a unique lookup of the public key from a trusted key server (that is when the user has decided to store the public key on such a server). It is absolute necessary to have the correct fingerprint, as otherwise you may be getting the wrong &lt;a href=&#34;https://pgp.mit.edu/pks/lookup?search=Edward+Snowden&amp;amp;op=index&#34;&gt;&amp;ldquo;Edward Snowden&amp;rdquo; public key from the server&lt;/a&gt;. To get an idea of how paranoid it can get you may find it interesting to &lt;a href=&#34;https://theintercept.com/2014/10/28/smuggling-snowden-secrets/&#34;&gt;learn how Edward Snowden established contact with the Guardian journalists&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tweeting your fingerprint is actually not such a bad idea either, as it is a relatively secure way of publishing your public key. The reason is that twitter uses secure http by default ensuring that your browser obtains the original tweet (i.e. you browser decrypts the tweet similar to the principle used in GPG), making it quite difficult to alter its content along the way. Below is an embedded tweet where I tweeted my GPG fingerprint. Note that this isn&amp;rsquo;t simply an image of a tweet (which potentially could have been modified by a man in the middle), but it is the javascript in your browser directly pulling the tweet from the twitter servers in a secure way. You can check that you got my actual tweet as the hyperlink on the date should get you to the original tweet (if you happen to land on a fake twitter account, or if it is only a simple image of a tweet, you have a good reason to start panicking)
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Getting somewhat paranoid lately, here&amp;#39;s my &lt;a href=&#34;https://twitter.com/hashtag/gpg?src=hash&#34;&gt;#gpg&lt;/a&gt; fingerprint  CB56 8BCC 2F04 2DFE E166  2D9B A7DB DDEA FDE4 D78C&lt;/p&gt;&amp;mdash; Roelof Rietbroek (@r_rietje) &lt;a href=&#34;https://twitter.com/r_rietje/status/826666842944966656&#34;&gt;February 1, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Keys which are signed by people you trust are less likely to be fake. Key owners have the possibility to sign each others key as an endorsement (I checked that this person is actually associated with this fingerprint), and upload the collected signatures to the public key servers. Have a look at &lt;a href=&#34;https://pgp.mit.edu/pks/lookup?op=vindex&amp;amp;search=0x2C6464AF2A8E4C02&#34;&gt;the signatures on the public key of Richard Stallman&lt;/a&gt; for example. Some people take this so serious that they actually go to key signing parties, where fingerprints of the attendees are manually cross checked and subsequently signed. But for now, I can&amp;rsquo;t imagine scientists having key signing parties at scientific conferences.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You may not be able to read your messages with web-based email interfaces. Since the messages are stored as gibberish on the server, using the web interface of your email provider will show you, yes gibberish. After all your secret key should  not be stored on that mail server, or on that internet-cafe terminal.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;how-to-set-up-gpg-for-your-devices&#34;&gt;How to set up GPG for your devices&lt;/h4&gt;
+
+&lt;p&gt;As you might have guessed, this post is not intended to give you a step by step guide to set up GPG on your device of choice, but more to make you aware of the possibilities, and sadly, the eventual necessity, of encrypting your email. However, I would like to point out a few links which may be consulted for setting things up. Note that there are usually more ways to accomplish this but below are a few common scenarios. They all use an underlying PGP tool with which you can manage your keys. This tool then communicates with your email client of choice out of the box or through a plugin.&lt;/p&gt;
+
+&lt;h5 id=&#34;using-thunderbird-on-linux-windows-or-mac&#34;&gt;Using thunderbird on linux, windows, or mac&lt;/h5&gt;
+
+&lt;p&gt;if you&amp;rsquo;re using thunderbird, there is a nifty plugin fittingly called Enigmail. Here&amp;rsquo;s a &lt;a href=&#34;https://enigmail.wiki/Quick_start&#34;&gt;&amp;lsquo;quick start&amp;rsquo; guide in setting this up for various OS&amp;rsquo;s&lt;/a&gt;. As mentioned before, it essentially consists of setting up GPG tool on your system, generating a key and using the plugin.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://wobbly.earth/images/enigmailscreenshot.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Using Enigmail in Thunderbird adds an enigmail menu item with several options to choose from&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h5 id=&#34;using-k-9-mail-with-openkeychain-on-android&#34;&gt;Using K-9 Mail with OpenKeychain on Android&lt;/h5&gt;
+
+&lt;p&gt;There is a good email app called K-9 Mail which supports PGP encrypted messages when OpenKeychain is installed on your android device.   &lt;a href=&#34;https://k9mail.github.io/documentation/security/pgpmime_current.html&#34;&gt;Instructions can be found here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h5 id=&#34;using-apples-mail-with-gpgtools&#34;&gt;Using Apples Mail with GPGtools&lt;/h5&gt;
+
+&lt;p&gt;OK, I know  lot of scientists like to work on Apple products, so I did some searching for you. It turns out that you &lt;a href=&#34;https://gpgtools.org&#34;&gt;can install a Mac port of GPG called GPGtools&lt;/a&gt;. This is supposed to integrate with Apples mail client &amp;lsquo;Mail&amp;rsquo;. Remarkably, GPGtools actually had to reverse engineer the Apple Mail software, as Apple does not provide official ways to write plugins for it. I leave it up to the reader what to think of this&amp;hellip;.&lt;/p&gt;
+
+&lt;h5 id=&#34;using-iosmail-with-ipgmail&#34;&gt;Using iOSMail with iPGMail&lt;/h5&gt;
+
+&lt;p&gt;If you happen to own an apple phone too, you may want to try out &lt;a href=&#34;https://ipgmail.com&#34;&gt;iPGMail&lt;/a&gt;, which is supposed to integrate with iOSMail.&lt;/p&gt;
+
+&lt;h4 id=&#34;gpg-as-a-digital-vaccination-program&#34;&gt;GPG as a digital vaccination program&lt;/h4&gt;
+
+&lt;p&gt;As a final note, it is important to realize is that &lt;strong&gt;if you want to facilitate others to send encrypted mail, you have to offer them your public key&lt;/strong&gt;, even if you consider the risk of being compromised yourself low. If scientists don&amp;rsquo;t bother to generate keys, it will become impossible to send GPG encrypted mails. So here&amp;rsquo;s an anology for you: convincing scientists to creating GPG keys is the digital equivalent of establishing a vaccination program&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Guess what: Sea level does rise when you melt floating ice</title>
@@ -43,7 +173,7 @@
 
 &lt;p&gt;&lt;em&gt;Any object, wholly or partially immersed in a fluid, is buoyed up by a force equal to the weight of the fluid displaced by the object&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;We will see that, in the case of melting ice in sea water, it certainly is not a correct to assume a constant density throughout the melting process.&lt;/p&gt;
+&lt;p&gt;We will see that, in the case of melting ice in sea water, it certainly is not correct to assume a constant density throughout the melting process.&lt;/p&gt;
 
 &lt;h4 id=&#34;grounded-versus-floating-ice&#34;&gt;Grounded versus Floating Ice&lt;/h4&gt;
 
@@ -95,6 +225,8 @@
 &lt;h4 id=&#34;melting-a-piece-of-the-larsen-c-ice-shelf&#34;&gt;Melting a piece of the Larsen C ice shelf&lt;/h4&gt;
 
 &lt;p&gt;For some time now, scientist have been looking at &lt;a href=&#34;http://www.projectmidas.org/blog/a-growing-rift-in-larsen-c/&#34;&gt;a growing crack in the Larsen C ice shelf&lt;/a&gt;. The part which could potentially break off covers about 6000 km^2, which is about 1/7th of the Netherlands (e.g. &lt;a href=&#34;http://www.volkskrant.nl/wetenschap/gigantische-ijsvlakte-antarctica-staat-op-breken~a3851188/&#34;&gt;the area of North and South Holland together&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update 9 Jan 2017&lt;/em&gt;: Recently, &lt;a href=&#34;https://www.washingtonpost.com/news/energy-environment/wp/2017/01/06/the-crack-in-this-antarctic-ice-shelf-just-grew-by-11-miles-a-break-could-be-imminent/?utm_term=.ec404d1f60f4&#34;&gt;the crack of the Larsen C has been growing quickly&lt;/a&gt;, and a break up is more likely in the near future.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -206,7 +338,7 @@
 
 &lt;p&gt;The best response I got when discussing the starting of blog with friends was probably in the line of &amp;ldquo;Good on you!: but don&amp;rsquo;t you think a homepage is a tad archaic?&amp;ldquo;. Well &lt;a href=&#34;http://www.igg.uni-bonn.de/apmg/index.php?id=rietbroek&#34;&gt;my institutional homepage&lt;/a&gt; sure has a pretty archaic look, and, frustatingly, I can&amp;rsquo;t change that. Interestingly, that&amp;rsquo;s also my prime reason to venture into this: &amp;ldquo;having the freedom to design and style your own public appearance, and being able to better manage your own outreach efforts. Of course one could try to reach out using a facebook profile, but frankly speaking, I don&amp;rsquo;t want facebook to take control over my homepage, and bombard you with irrelevant information (i.e. adds), although I&amp;rsquo;ll certainly use it to share links to reach a wider audience.&lt;/p&gt;
 
-&lt;div class=&#34;highlight&#34; style=&#34;background: #f0f0f0&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span style=&#34;color: #007020; font-weight: bold&#34;&gt;while&lt;/span&gt; ( Outreach &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&lt;/span&gt; Publications )
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f0f0f0&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #007020; font-weight: bold&#34;&gt;while&lt;/span&gt; ( Outreach &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&lt;/span&gt; Publications )
 {
     &lt;span style=&#34;color: #666666&#34;&gt;++&lt;/span&gt;Publications;
 }
@@ -233,7 +365,7 @@
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/rRmv4uD2RQ4?&#34; 
+  &lt;iframe src=&#34;//www.youtube.com/embed/4ZBLSjF56S8?&#34; 
   style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
