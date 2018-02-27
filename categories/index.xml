@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Wobbly Earth</title>
+    <link>http://wobbly.earth/categories/</link>
+    <description>Recent content in Categories on Wobbly Earth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://wobbly.earth/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bio</title>
+      <link>http://wobbly.earth/categories/bio/</link>
+      <pubDate>Sun, 02 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/categories/bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>http://wobbly.earth/categories/post/</link>
+      <pubDate>Wed, 15 Feb 2017 20:51:17 +1100</pubDate>
+      
+      <guid>http://wobbly.earth/categories/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://wobbly.earth/categories/project/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/categories/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://wobbly.earth/categories/research/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/categories/research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
