@@ -7,9 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Sep 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://wobbly.earth/tags/the-hague/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://wobbly.earth/tags/the-hague/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Research Profile</title>
@@ -17,7 +15,108 @@
       <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://wobbly.earth/about/</guid>
-      <description>Research Focus I&amp;rsquo;m working as a post-doc researcher at the Institute for Geodesy and Geoinformation at the university of Bonn in Germany. Besides teaching and EGU activities, I use space geodesy to study terrestrial hydrology, oceanographic signals and ice sheet changes. I&amp;rsquo;ve (and am) working a lot with the Gravity Recovery and Climate Experiment to study time variable gravity changes. Furthermore, using radar altimetry over the ocean to study sea level changes is another focus.</description>
+      <description>
+
+&lt;h4 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h4&gt;
+
+&lt;p&gt;I&amp;rsquo;m working as a post-doc researcher at &lt;a href=&#34;http://www.igg.uni-bonn.de&#34;&gt;the Institute for Geodesy and Geoinformation&lt;/a&gt; at the university of Bonn in Germany. Besides &lt;a href=&#34;#teaching&#34;&gt;teaching&lt;/a&gt; and &lt;a href=&#34;#EGU&#34;&gt;EGU&lt;/a&gt; activities, I use space geodesy to study terrestrial hydrology, oceanographic signals and ice sheet changes. I&amp;rsquo;ve (and am) working a lot with the &lt;a href=&#34;http://grace.jpl.nasa.gov/mission/grace/&#34;&gt;Gravity Recovery and Climate Experiment&lt;/a&gt; to study time variable gravity changes. Furthermore, using radar altimetry over the ocean to study sea level changes is another focus.&lt;/p&gt;
+
+&lt;p&gt;In my research, I like to think of the Earth as a wobbly substance (a post on that theme is in the making). Many of the signals I&amp;rsquo;m interested in involve the movement of masses (mostly water) just above or below the surface of the Earth. These masses cause the Earth to wobble as they deform the surface of the Earth, change its center of gravity and shift the rotational axis.&lt;/p&gt;
+
+&lt;h4 id=&#34;whereabouts&#34;&gt;Whereabouts&lt;/h4&gt;
+
+&lt;p&gt;I&amp;rsquo;m born and raised in the Netherlands in the city of The Hague and am inofficially classified as a  &amp;lsquo;Hagenees&amp;rsquo;. One can roughly divide the area of The Hague in a &amp;lsquo;high and snobby&amp;rsquo; part and a &amp;lsquo;low and poor&amp;rsquo; part. The more expensive property can be found on former sand dunes, while the more affordable housing is situated in the lower lying areas (read: mud). People living in the former part are commonly known as &amp;lsquo;Hagenaars&amp;rsquo; while those from the latter part are called &amp;lsquo;Hagenezen&amp;rsquo;.
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://wobbly.earth/images/The_Hague.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;The Hague can be roughly divided into a lower and higher part.&lt;/h4&gt;
+        &lt;p&gt;
+        
+        &lt;a href=&#34;http://www.floodmap.net&#34;&gt; 
+            Source: floodmap.net
+        &lt;/a&gt; 
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;It was only during the final stages of my study of Aerospace Engineering at Delft university of Technology that I became interested in Earth sciences. Although the link between aerospace engineering and Earth sciences may not be obvious at first sight, it may help to think of the mental associative chain: airplanes -&amp;gt; rockets -&amp;gt; satellites -&amp;gt; instruments -&amp;gt; earth observation -&amp;gt; earth sciences. After my study I moved to Potsdam in Germany, to work at the &lt;a href=&#34;http://www.gfz-potsdam.de&#34;&gt;Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ&lt;/a&gt;. Since 2011, I&amp;rsquo;v been living in Bonn and work at the &lt;a href=&#34;http://www.igg.uni-bonn.de&#34;&gt;Institute of Geodesy and Geoinformation&lt;/a&gt; at the University of Bonn.&lt;/p&gt;
+
+&lt;h4 id=&#34;professional-experience-and-education&#34;&gt;Professional Experience and Education&lt;/h4&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://wobbly.earth/images/DoktorHut.jpg&#34; width=&#34;90%&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;The decoration on the &amp;#34;Doktor Hut&amp;#34; pretty much covers where I come from and what I&amp;#39;ve being researching the last years&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;2014-present, Post-doctoral Researcher at Bonn University, Institute of Geodesy and Geoinformation (chair of Astronomical, Physical and Mathematical Geodesy)&lt;/li&gt;
+&lt;li&gt;2007-2014, PhD (Dr.-ing.), in Geodesy, Institute of Geodesy and Geinformation, university of Bonn, The overall theme of my &lt;a href=&#34;http://wobbly.earth/data/rietbroekPhdThesis2014.pdf&#34;&gt;thesis&lt;/a&gt; covered the combination of several geodetic techniques at once to study for example sea level and Earth deformation effects.&lt;/li&gt;
+&lt;li&gt;2009-2014, Researcher at Bonn University, Institute of Geodesy and Geoinformation (chair of Astronomical, Physical and Mathematical Geodesy)&lt;/li&gt;
+&lt;li&gt;2007,2009, Researcher at Section 1.3 Gravity Field and Gravimetry at Helmholtz Centre Deutsches GeoForschungsZentrum (GFZ)&lt;/li&gt;
+&lt;li&gt;2005-2007, Master of Sciences, Aerospace engineering, Delft University of Technology, The Netherlands. In the &lt;a href=&#34;http://wobbly.earth/data/ae_rietbroek_2007.pdf&#34;&gt;thesis&lt;/a&gt; I compared data from in situ deep ocean bottom pressure recorders with time series from GRACE gravity fields.&lt;/li&gt;
+&lt;li&gt;Feb-May 2006, Study of Ocean Bottom Pressure Records in the Indian Ocean (Internship) at Ifremer, Brest, France&lt;/li&gt;
+&lt;li&gt;2000-2005, Bachelor of Sciences, Aerospace engineering, Delft University of Technology, The Netherlands&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;a-name-egu-a-european-geosciences-union-activities&#34;&gt;&lt;a name=&#34;EGU&#34;&gt;&lt;/a&gt; European Geosciences Union Activities&lt;/h4&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.egu.eu/g/home/&#34;&gt;Geodesy division of the European Geoscience union&lt;/a&gt; is also something I&amp;rsquo;m involved in. Since 2014, &lt;a href=&#34;http://blogs.egu.eu/geolog/2016/02/10/geotalk-roelof-rietbroek-early-career-scientist-representative/&#34;&gt;I&amp;rsquo;m fullfilling the role as the early career scientists (ECS) representative for the geodesy division&lt;/a&gt;, and I occasionally post on its &lt;a href=&#34;http://blogs.egu.eu/divisions/g/&#34;&gt;division blog&lt;/a&gt;. From 2017, I&amp;rsquo;ll follow up &lt;a href=&#34;http://www.egu.eu/ecs/representatives/&#34;&gt;Lena Noack&lt;/a&gt; as the Union Level ECS Representative of the EGU, so this means we&amp;rsquo;re looking for an ECS to represent the geodesy division from 2017 and onward. Interested scientists are invited to contact me by &lt;a href=&#34;https://twitter.com/r_rietje&#34;&gt;twitter&lt;/a&gt; or &lt;a href=&#34;mailto:ecs-g@egu.eu?subject=I want to be the next Geodesy ECS-rep!&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-teaching-a-teaching&#34;&gt;&lt;a name=&#34;teaching&#34;&gt;&lt;/a&gt; Teaching&lt;/h4&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://wobbly.earth/images/phdcomicsStudent.gif&#34; width=&#34;90%&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        
+        &lt;a href=&#34;http://phdcomics.com/comics/archive.php?comicid=1873&#34;&gt; 
+            Source: phdcomics.com
+        &lt;/a&gt; 
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+There are several courses I teach/taught and practicals I supervise. Most of them are in German, which is not my native tongue and occasionally causes some confusion but most of all amusement. To return the favour, I also try to get our German students out of their comfort zones by lecturing in English now and then.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gug.uni-bonn.de/studierende/modulbeschreibungen/20161/291_modulbeschreibung_b24_ggd_20161_160324.pdf&#34;&gt;Globale Geodynamik (Bsc)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gug.uni-bonn.de/studierende/modulbeschreibungen/20152/291-modulbeschreibung-b37-20152-151006.pdf&#34;&gt;Astronomisch-physikalische und mathematische Geodäsie I &amp;amp; II (Bsc)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.igg.uni-bonn.de/apmg/index.php?id=diskretemathe00&#34;&gt;Spezielle Verfahren der Satellitengeodäsie (Msc)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gug.uni-bonn.de/studierende/modulbeschreibungen/20161/340-modulbeschreibung-m28-sgsb-2016-160330.pdf&#34;&gt;Masterprojekt Bonn Space Geodesy Simulator (Msc)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.igg.uni-bonn.de/apmg/index.php?id=537&#34;&gt;Erdsystemforschung mit Satellitenverfahren (Msc)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gug.uni-bonn.de/studierende/modulbeschreibungen/20152/340-modulbeschreibung-m21-20152-150916.pdf&#34;&gt;Globales Geomonitoring (Msc)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;projects-project&#34;&gt;&lt;a href=&#34;http://wobbly.earth/project&#34;&gt;Projects&lt;/a&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://wobbly.earth/project/bandaid&#34;&gt;Band-Aid&lt;/a&gt;: Bangladesh Delta: Assessment of the Causes of Sea-level Rise Hazards and Integrated Development of Predictive Modeling Towards Mitigation and Adaptation.&lt;/li&gt;
+&lt;li&gt;CONTIM: Consistent Ocean Mass Time Series from LEO Potential Field Missions  &lt;a href=&#34;http://gepris.dfg.de/gepris/projekt/273514821&#34;&gt;description&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;JIGOG: Surface mass redistribution from joint inversion of GPS site displacements, ocean bottom pressure models and GRACE global gravity models &lt;a href=&#34;http://massentransporte.de/index.php?id=210&#34;&gt;former project site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;STREMP: Spatial and Temporal Resolution Limits for Regional Mass Transport and Mass Distribution &lt;a href=&#34;http://massentransporte.de/index.php?id=199&#34;&gt;former project site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;FIGO: Fingerprints of ice melting in geodetic GRACE and ocean models &lt;a href=&#34;http://massentransporte.de/index.php?id=214&#34;&gt;former project site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

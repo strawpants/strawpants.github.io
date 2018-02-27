@@ -7,9 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Oct 2016 01:36:00 +0200</lastBuildDate>
-    
-	<atom:link href="http://wobbly.earth/tags/ice-shelf/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://wobbly.earth/tags/ice-shelf/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Guess what: Sea level does rise when you melt floating ice</title>
@@ -17,7 +15,6 @@
       <pubDate>Wed, 26 Oct 2016 01:36:00 +0200</pubDate>
       
       <guid>http://wobbly.earth/post/archimedes/</guid>
-<<<<<<< HEAD
       <description>
 
 &lt;p&gt;One may suspect that melting of floating ice would not cause a sea level change, but dissolving a chunk of the Larsen C ice shelf may actually change &lt;em&gt;regional&lt;/em&gt; sea level by up to a meter.&lt;/p&gt;
@@ -186,9 +183,6 @@
 
 &lt;p&gt;The above experiment comes with it&amp;rsquo;s assumptions (e.g. no circulation and energy exchange with the surrounding waters), but can nevertheless be used as a conceptual model. Readers who find errors in the code are of course encouraged to report this.&lt;/p&gt;
 </description>
-=======
-      <description>&lt;p&gt;One may suspect that melting of floating ice would not cause a sea level change, but dissolving a chunk of the Larsen C ice shelf may actually change &lt;em&gt;regional&lt;/em&gt; sea level by up to a meter. &lt;/p&gt;</description>
->>>>>>> 188d465c902a4ea954d274c8965890aca3ce5031
     </item>
     
   </channel>
