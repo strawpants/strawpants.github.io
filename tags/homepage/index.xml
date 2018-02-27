@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Sep 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://wobbly.earth/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://wobbly.earth/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Your academic homepage: outreach booster or narcissistic outlet?</title>
@@ -15,6 +17,7 @@
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://wobbly.earth/post/welcome/</guid>
+<<<<<<< HEAD
       <description>
 
 &lt;h4 id=&#34;do-you-really-need-an-academic-homepage&#34;&gt;Do you really need an academic homepage?&lt;/h4&gt;
@@ -55,9 +58,11 @@
 &lt;/div&gt;
 
 &lt;p&gt;The problem with journalistic stories is that they often filter out a fair share of relevant science while shaping the story around dramatic headlines. Honestly, you can&amp;rsquo;t really blame the journalists for doing this, as they &lt;a href=&#34;http://www.bbc.com/news/uk-wales-34213693&#34;&gt;crucially depend on clicks&lt;/a&gt;, but it may deform the results of the actual study.&lt;/p&gt;
+=======
+      <description>&lt;h4 id=&#34;do-you-really-need-an-academic-homepage&#34;&gt;Do you really need an academic homepage?&lt;/h4&gt;
+>>>>>>> 188d465c902a4ea954d274c8965890aca3ce5031
 
-&lt;p&gt;But who said that you have to choose? Maybe it&amp;rsquo;s better to go for a double barrel approach and use both the professional media and a direct piece by the scientist. In such situations, if you have your academic homepage up and running, don&amp;rsquo;t you think it is an ideal place to add those extra bits of science?&lt;/p&gt;
-</description>
+&lt;p&gt;Considering the abundance of academic homepages and blogs around, I&amp;rsquo;m certainly not the only one who asked himself that question. I&amp;rsquo;ve been playing with the idea of making one myself for a quite a while now, and finally decided to give it a shot. You&amp;rsquo;re currently looking at the result. For those of you interested in the technical details or the idea behind the domain name, there are posts in the making on that.&lt;/p&gt;</description>
     </item>
     
   </channel>
