@@ -251,7 +251,7 @@ text-decoration:underline;
 }
 .hugo-blog .profile-card #fab_ctn {
   position: absolute;
-  top: calc(100% - 92px);
+  top: 16px;
   right: 16px;
   /*transform: translate(0px, -28px);*/
 }
@@ -290,7 +290,6 @@ text-decoration:underline;
 }
 .mdl-button--fab_flinger-container .mdl-button--fab_flinger-options {
   position: absolute;
-  bottom: 100%;
   margin-bottom: 10px;
 }
 .mdl-button--fab_flinger-container .mdl-button--fab_flinger-options button {
@@ -557,6 +556,7 @@ border:none;
 
 .hugo-blog .mdl-navigation__link{
 font-size:1.2em;
+color:rgba(0, 0, 0, 0.54);
 }
 
 .hugo-blog .project-card {
@@ -594,6 +594,8 @@ font-size:1.2em;
 .hugo-blog figure{
  text-align:center;
  margin-bottom:20px;
+ margin-left:0px;
+ margin-right:0px;
 }
 
 .hugo-blog figcaption h4{

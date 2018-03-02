@@ -6,10 +6,29 @@
     <description>Recent content on Wobbly Earth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Feb 2017 20:51:17 +1100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://wobbly.earth/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Consistent Ocean Mass Time Series from LEO Potential Field Missions (CONTIM)</title>
+      <link>http://wobbly.earth/project/contim/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/project/contim/</guid>
+      <description>The DFG funded project CONTIM (Consistent Ocean Mass Time Series from LEO Potential Field Missions), is part of the Priority Program Dynamic Earth, and started in 2015 (initially for 3 years). It&amp;rsquo;s primary goal is to estimate and study ocean mass variations using numerical ocean modelling, precise orbit determination of low earth orbiters (LEO&amp;rsquo;s), and data combination approaches. The project is expected to yield results which are highly relevant for closing the sea level budget, indirectly providing constraints on the ocean warming and the related energy budget of the Earth.</description>
+    </item>
+    
+    <item>
+      <title>Mind the GRACE Gap, use Swarm</title>
+      <link>http://wobbly.earth/post/mindthegap/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/post/mindthegap/</guid>
+      <description>&lt;p&gt;Around Christmas time last year, a falling star, caused by the reentry of the GRACE-2 satellite vehicle, marked the end of an unprecedented gravity mission. It therefore makes sense to find alternatives for the Gravity Recovery and Climate Experiment (GRACE), which can be used to bridge the gap with the GRACE Follow-on mission. A &lt;a href=&#34;https://www.solid-earth-discuss.net/se-2017-127/&#34;&gt;recent paper by Christina Lück et al.&lt;/a&gt; now shows whether the Swarm mission can help out in filling this gap.
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Scientists! Encrypt your mail if you got nothing to hide</title>
