@@ -1,2 +1,2 @@
-#strawpants.github.io
-This is a very very early version of a homepage
+# Homepage of strawpants.github.io
+This repository contains a static website build with hugo. The website lives at [wobbly.earth](http://wobbly.earth)
