@@ -87,5 +87,15 @@
       <description>Research Focus I&amp;rsquo;m working as a post-doc researcher at the Institute for Geodesy and Geoinformation at the university of Bonn in Germany. Besides teaching and EGU activities, I use space geodesy to study terrestrial hydrology, oceanographic signals and ice sheet changes. I&amp;rsquo;ve (and am) working a lot with the Gravity Recovery and Climate Experiment to study time variable gravity changes. Furthermore, using radar altimetry over the ocean to study sea level changes is another focus.</description>
     </item>
     
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://wobbly.earth/privacypolicy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/privacypolicy/</guid>
+      <description>Your data and wobbly.earth I don&amp;rsquo;t collect any personal data currently when you visit wobbly.earth. This may change in the future when I decide to switch on google analytics again and make the website conform with the General Data Protection Regulation.
+A note on the social sharing buttons The social sharing buttons (e.g. share on twitter, facebook etc.) are implemented in such a way that you only contact the respective service providers when you actually decide to share (i.</description>
+    </item>
+    
   </channel>
 </rss>
