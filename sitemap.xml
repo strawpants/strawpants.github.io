@@ -289,6 +289,12 @@
   </url>
   
   <url>
+    <loc>http://wobbly.earth/privacypolicy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://wobbly.earth/categories/project/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
