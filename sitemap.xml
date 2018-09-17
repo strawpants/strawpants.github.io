@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://wobbly.earth/privacypolicy/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://wobbly.earth/project/contim/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -289,12 +296,6 @@
   </url>
   
   <url>
-    <loc>http://wobbly.earth/privacypolicy/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://wobbly.earth/categories/project/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -309,15 +310,15 @@
   </url>
   
   <url>
-    <loc>http://wobbly.earth/tags/research/</loc>
-    <lastmod>2016-09-06T00:00:00+00:00</lastmod>
+    <loc>http://wobbly.earth/categories/research/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://wobbly.earth/categories/research/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <loc>http://wobbly.earth/tags/research/</loc>
+    <lastmod>2016-09-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -422,7 +423,7 @@
   
   <url>
     <loc>http://wobbly.earth/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
