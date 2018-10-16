@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://wobbly.earth/post/geocenter/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://wobbly.earth/privacypolicy/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -164,6 +171,13 @@
   </url>
   
   <url>
+    <loc>http://wobbly.earth/tags/geocenter/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://wobbly.earth/tags/gpg/</loc>
     <lastmod>2017-02-15T20:51:17+11:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -240,6 +254,13 @@
   </url>
   
   <url>
+    <loc>http://wobbly.earth/tags/mass-transport/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://wobbly.earth/levels/non-technical/</loc>
     <lastmod>2016-09-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -283,22 +304,16 @@
   
   <url>
     <loc>http://wobbly.earth/categories/post/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://wobbly.earth/post/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://wobbly.earth/privacypolicy/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -311,6 +326,13 @@
   <url>
     <loc>http://wobbly.earth/project/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wobbly.earth/tags/repost/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -359,7 +381,7 @@
   
   <url>
     <loc>http://wobbly.earth/levels/somewhat-technical/</loc>
-    <lastmod>2017-02-15T20:51:17+11:00</lastmod>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -367,6 +389,20 @@
   <url>
     <loc>http://wobbly.earth/tags/space-geodesy/</loc>
     <lastmod>2016-09-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wobbly.earth/tags/spp1257/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wobbly.earth/tags/surface-loading/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -429,7 +465,7 @@
   
   <url>
     <loc>http://wobbly.earth/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

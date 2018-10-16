@@ -6,10 +6,19 @@
     <description>Recent content on Wobbly Earth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://wobbly.earth/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Geocenter motion: A mind-boggling phenomenon</title>
+      <link>http://wobbly.earth/post/geocenter/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/post/geocenter/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s face it, understanding the concept of &amp;lsquo;geocenter motion&amp;rsquo; is not for the faint-hearted. On a good day it is only confusing, while on bad days we would rather avoid the subject all together. The story below is meant to clear the fog somewhat for those of you who have more bad days than good days. We additionally provide links to recently calculated geocenter motion time series, for those of you who want to get started with real data. &lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>
@@ -36,7 +45,7 @@ A note on the social sharing buttons The social sharing buttons (e.g. share on t
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>http://wobbly.earth/post/mindthegap/</guid>
-      <description>&lt;p&gt;Around Christmas time last year, a falling star, caused by the reentry of the GRACE-2 satellite vehicle, marked the end of an unprecedented gravity mission. It therefore makes sense to find alternatives for the Gravity Recovery and Climate Experiment (GRACE), which can be used to bridge the gap with the GRACE Follow-on mission. A &lt;a href=&#34;https://www.solid-earth.net/9/323/2018/se-9-323-2018.html/&#34;&gt;recent paper by Christina Lück et al.&lt;/a&gt; now shows whether the Swarm mission can help out in filling this gap.
+      <description>&lt;p&gt;Around Christmas time last year, a falling star, caused by the reentry of the GRACE-2 satellite vehicle, marked the end of an unprecedented gravity mission. It therefore makes sense to find alternatives for the Gravity Recovery and Climate Experiment (GRACE), which can be used to bridge the gap with the GRACE Follow-on mission. A &lt;a href=&#34;https://www.solid-earth.net/9/323/2018/se-9-323-2018.html&#34;&gt;recent paper by Christina Lück et al.&lt;/a&gt; now shows whether the Swarm mission can help out in filling this gap.
 &lt;/p&gt;</description>
     </item>
     
@@ -95,16 +104,6 @@ A note on the social sharing buttons The social sharing buttons (e.g. share on t
       
       <guid>http://wobbly.earth/about/</guid>
       <description>Research Focus I&amp;rsquo;m working as a post-doc researcher at the Institute for Geodesy and Geoinformation at the university of Bonn in Germany. Besides teaching and EGU activities, I use space geodesy to study terrestrial hydrology, oceanographic signals and ice sheet changes. I&amp;rsquo;ve (and am) working a lot with the Gravity Recovery and Climate Experiment to study time variable gravity changes. Furthermore, using radar altimetry over the ocean to study sea level changes is another focus.</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>http://wobbly.earth/privacypolicy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://wobbly.earth/privacypolicy/</guid>
-      <description>Your data and wobbly.earth I don&amp;rsquo;t collect any personal data currently when you visit wobbly.earth. This may change in the future when I decide to switch on google analytics again and make the website conform with the General Data Protection Regulation.
-A note on the social sharing buttons The social sharing buttons (e.g. share on twitter, facebook etc.) are implemented in such a way that you only contact the respective service providers when you actually decide to share (i.</description>
     </item>
     
   </channel>

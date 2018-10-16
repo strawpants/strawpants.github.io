@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mass Transport on Wobbly Earth</title>
+    <link>http://wobbly.earth/tags/mass-transport/</link>
+    <description>Recent content in Mass Transport on Wobbly Earth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://wobbly.earth/tags/mass-transport/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geocenter motion: A mind-boggling phenomenon</title>
+      <link>http://wobbly.earth/post/geocenter/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://wobbly.earth/post/geocenter/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s face it, understanding the concept of &amp;lsquo;geocenter motion&amp;rsquo; is not for the faint-hearted. On a good day it is only confusing, while on bad days we would rather avoid the subject all together. The story below is meant to clear the fog somewhat for those of you who have more bad days than good days. We additionally provide links to recently calculated geocenter motion time series, for those of you who want to get started with real data. &lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -44,6 +44,11 @@ text-decoration:underline;
     
 }
 
+.hugo-blog .pollist{
+display:inline;
+line-height:30px;
+}
+
 .hugo-blog .hugo-blog__posts {
   max-width: 900px;
   padding: 0px;
