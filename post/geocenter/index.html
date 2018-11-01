@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta name="generator" content="Hugo 0.48" />
+    <meta name="generator" content="Hugo 0.50" />
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         
@@ -31,6 +31,7 @@
 <meta property="og:image" content=":/images/sat-the-earths-core.jpg&#34;" />
 <meta property="article:published_time" content="2018-10-16T00:00:00&#43;00:00"/>
 <meta property="article:modified_time" content="2018-10-16T00:00:00&#43;00:00"/><meta property="og:site_name" content="Wobbly Earth" />
+
         
          
             <meta property="og:image" content="http://wobbly.earth/images/Screenshot_home_og.png" />
@@ -48,6 +49,29 @@
         <link rel="stylesheet" href="/css/material.min.css"/>
         <link rel="stylesheet" href="/css/styles.css"/>
           <link rel="stylesheet" href="/css/prism.css" />  
+
+        
+            
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'UA-84784436-1', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
         
         
@@ -167,17 +191,10 @@
 
 <p>Let&rsquo;s speculate about the endpoint, which we denote by the so-called &lsquo;geocenter&rsquo;. By &lsquo;center&rsquo; we mean the mass center of the &lsquo;geo&rsquo; (Earth) system. This encompasses the solid part of the Earth, the ocean, the atmosphere, ice sheets, water in rivers and lakes, and a whole lot of other stuff we can think of. In literature it is commonly denoted as center of common mass (CM) and it is a natural choice of origin for satellite-based reference systems.</p>
 
-
 <figure>
-    
-        <img src="/images/geo_anim_smll.gif" />
-    
-    
-    <figcaption>
-        <h4>Figure 1. Geocenter motion as induced by a hypothetical (overweight?) cyclist moving over the Earth&#39;s surface. The left and right scenarios are exactly the same but seen from a different perspective. In the left plot we observe a movement of the center of common mass (black) as seen from the solid Earth, while the solid part of the Earth moves as seen from a satellite-based reference frame (right).</h4>
-        
-    </figcaption>
-    
+    <img src="/images/geo_anim_smll.gif"/> <figcaption>
+            <h4>Figure 1. Geocenter motion as induced by a hypothetical (overweight?) cyclist moving over the Earth&#39;s surface. The left and right scenarios are exactly the same but seen from a different perspective. In the left plot we observe a movement of the center of common mass (black) as seen from the solid Earth, while the solid part of the Earth moves as seen from a satellite-based reference frame (right).</h4>
+        </figcaption>
 </figure>
 
 
@@ -194,22 +211,10 @@ Since we don&rsquo;t usually find ourselves sitting in an inertial frame, the CM
 
 <p>In order to observe the relative motion of CM-CF we need data which link the solid part of the Earth to  a space-based reference frame. Observed ranges between Earth-fixed permanent GPS stations and GPS satellites, may provide this link. Alternatively (or in combination), we may deduce the geocenter motion by observing the shape changes (deformations) of the solid Earth. Using an elastic model of the Earth we may derive the surface loading which actually caused such deformations. When we additionally apply the conservation of linear momentum, providing us with the link between the solid Earth and space, we can calculate the associated CM-CF shift.</p>
 
-
 <figure>
-    
-        <img src="/images/Surfload_geoc.svg" />
-    
-    
-    <figcaption>
-        <h4>Figure 2. Cartesian components of  the estimated geocenter motion as induced by Hydrology, ice sheet and glacier changes.</h4>
-        <p>
-        
-        <a href="https://wobbly.earth/data/Geocenter_dec2017.tgz"> 
-            Data from Rietbroek et al. 2016 (updated)
-        </a> 
-        </p> 
-    </figcaption>
-    
+    <img src="/images/Surfload_geoc.svg"/> <figcaption>
+            <h4>Figure 2. Cartesian components of  the estimated geocenter motion as induced by Hydrology, ice sheet and glacier changes.</h4><p><a href="https://wobbly.earth/data/Geocenter_dec2017.tgz">Data from Rietbroek et al. 2016 (updated)</a></p>
+        </figcaption>
 </figure>
 
 
@@ -217,17 +222,10 @@ Since we don&rsquo;t usually find ourselves sitting in an inertial frame, the CM
 
 <p>At least for me, it is rather difficult to eyeball the X,Y, Z plot from Fig. 2 and determine where the geocenter offset is actually pointing to. Therefore, a more intuitive plot of the seasonal geocenter motion is shown in Fig. 3. There, we can see that the magnitude of the offset between the CM and CF varies between 2 and 5 mm. The regions which are mostly affected by the geocenter motion can be found on an approximate track crossing Central Asia, Europe, South America and Australia. At the same time the antipode will be equally affected but in the opposite direction.</p>
 
-
 <figure>
-    
-        <img src="/images/geoc_seas_anim_smll.gif" />
-    
-    
-    <figcaption>
-        <h4> Figure 3. Direction and size of the seasonal (and semi-seasonal) geocenter motion. The colored sphere can be seen as an equivalent mass which induces the observed geocenter motion by means of conservation of linear momentum. Over the season the effect varies between 2 and 5 mm. Areas which are mostly affected lie on the groundtrack of the geocenter motion, such as central Asia, the Amazon region and Australia. Data from Rietbroek et al 2012</h4>
-        
-    </figcaption>
-    
+    <img src="/images/geoc_seas_anim_smll.gif"/> <figcaption>
+            <h4> Figure 3. Direction and size of the seasonal (and semi-seasonal) geocenter motion. The colored sphere can be seen as an equivalent mass which induces the observed geocenter motion by means of conservation of linear momentum. Over the season the effect varies between 2 and 5 mm. Areas which are mostly affected lie on the groundtrack of the geocenter motion, such as central Asia, the Amazon region and Australia. Data from Rietbroek et al 2012</h4>
+        </figcaption>
 </figure>
 
 

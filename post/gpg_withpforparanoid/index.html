@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta name="generator" content="Hugo 0.48" />
+    <meta name="generator" content="Hugo 0.50" />
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         
@@ -31,6 +31,7 @@
 <meta property="og:image" content="http://wobbly.earth/images/scienceTrump_og.jpg" />
 <meta property="article:published_time" content="2017-02-15T20:51:17&#43;11:00"/>
 <meta property="article:modified_time" content="2017-02-15T20:51:17&#43;11:00"/><meta property="og:site_name" content="Wobbly Earth" />
+
         
          
             <meta property="og:image" content="http://wobbly.earth/images/Screenshot_home_og.png" />
@@ -48,6 +49,29 @@
         <link rel="stylesheet" href="/css/material.min.css"/>
         <link rel="stylesheet" href="/css/styles.css"/>
           <link rel="stylesheet" href="/css/prism.css" />  
+
+        
+            
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'UA-84784436-1', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
         
         
@@ -160,22 +184,10 @@
 
 <p>So here&rsquo;s what I&rsquo;ve been thinking about lately: Would encrypting email between scientists (and journalists) actually serve the scientific pursuit? Somewhat ironically, will it aid in scientific transparency  by actually preventing censorship and politically motivated interference? I&rsquo;m increasingly inclined to think so, but at the same time, I&rsquo;m ridiculing myself for having these paranoid thoughts and I don&rsquo;t want to be the one who&rsquo;s scaremongering. Furthermore, I realize that admitting that you encrypt your email may invigorate conspiracy theories by those who are susceptible. However, under normal circumstances, using an encrypted or unecrypted email wouldn&rsquo;t make any difference at all, and I simply see it as having an additional insurance against unauthorized access.</p>
 
-
 <figure>
-    
-        <img src="/images/snowden-blanket.png" />
-    
-    
-    <figcaption>
-        <h4>Better safe than sorry? Edward Snowden covers himself and laptop while typing his password.</h4>
-        <p>
-        
-        
-            Source: Still from Citizenfour (2014)
-        
-        </p> 
-    </figcaption>
-    
+    <img src="/images/snowden-blanket.png"/> <figcaption>
+            <h4>Better safe than sorry? Edward Snowden covers himself and laptop while typing his password.</h4><p>Source: Still from Citizenfour (2014)</p>
+        </figcaption>
 </figure>
 
 
@@ -195,22 +207,10 @@
 
 <p>Most of the time, when an email program (outlook, thunderbird, etc..) contacts the email server the transport over the internet will be encrypted via a secure protocol (e.g. <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">TLS</a>). Although most email-servers will drop the security layer when either sender or receiver does not support it, it will work for most modern email-programs and browsers, ensuring that intercepted emails can not be decrypted without disproportionate efforts. Generally however, <em>your inbox will still be stored unencrypted at the email server</em>, and may therefore be easily read when the server is compromised.</p>
 
-
 <figure>
-    
-        <img src="/images/Orange_blue_public_key_cryptography_en.svg" />
-    
-    
-    <figcaption>
-        <h4>Use the public key for encrypting and the secret key for decrypting</h4>
-        <p>
-        
-        
-            Source: Wikimedia commons
-        
-        </p> 
-    </figcaption>
-    
+    <img src="/images/Orange_blue_public_key_cryptography_en.svg"/> <figcaption>
+            <h4>Use the public key for encrypting and the secret key for decrypting</h4><p>Source: Wikimedia commons</p>
+        </figcaption>
 </figure>
 
 
@@ -228,7 +228,7 @@
 <li><p>To prevent man-in-the-middle attacks, getting someones public key must go over a trusted channel. Otherwise, the man in the middle may sneak in a compromised public key allowing him to decrypt and encrypt the message while on the way to the real recipient. The analog way essentially involves meeting with somebody in person, checking that she/he is actually the person, and then handwrite the key down on a piece of paper. However in practice, one exchanges a fingerprint, which allows a unique lookup of the public key from a trusted key server (that is when the user has decided to store the public key on such a server). It is absolute necessary to have the correct fingerprint, as otherwise you may be getting the wrong <a href="https://pgp.mit.edu/pks/lookup?search=Edward+Snowden&amp;op=index">&ldquo;Edward Snowden&rdquo; public key from the server</a>. To get an idea of how paranoid it can get you may find it interesting to <a href="https://theintercept.com/2014/10/28/smuggling-snowden-secrets/">learn how Edward Snowden established contact with the Guardian journalists</a>.</p></li>
 
 <li><p>Tweeting your fingerprint is actually not such a bad idea either, as it is a relatively secure way of publishing your public key. The reason is that twitter uses secure http by default ensuring that your browser obtains the original tweet (i.e. you browser decrypts the tweet similar to the principle used in GPG), making it quite difficult to alter its content along the way. Below is an embedded tweet where I tweeted my GPG fingerprint. Note that this isn&rsquo;t simply an image of a tweet (which potentially could have been modified by a man in the middle), but it is the javascript in your browser directly pulling the tweet from the twitter servers in a secure way. You can check that you got my actual tweet as the hyperlink on the date should get you to the original tweet (if you happen to land on a fake twitter account, or if it is only a simple image of a tweet, you have a good reason to start panicking)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Getting somewhat paranoid lately, here&#39;s my <a href="https://twitter.com/hashtag/gpg?src=hash&amp;ref_src=twsrc%5Etfw">#gpg</a> fingerprint  CB56 8BCC 2F04 2DFE E166  2D9B A7DB DDEA FDE4 D78C</p>&mdash; Roelof Rietbroek (@r_rietje) <a href="https://twitter.com/r_rietje/status/826666842944966656?ref_src=twsrc%5Etfw">February 1, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Getting somewhat paranoid lately, here&#39;s my <a href="https://twitter.com/hashtag/gpg?src=hash&amp;ref_src=twsrc%5Etfw">#gpg</a> fingerprint  CB56 8BCC 2F04 2DFE E166  2D9B A7DB DDEA FDE4 D78C</p>&mdash; Roelof Rietbroek (@r_rietje) <a href="https://twitter.com/r_rietje/status/826666842944966656?ref_src=twsrc%5Etfw">February 1, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p></li>
 
@@ -245,17 +245,10 @@
 
 <p>if you&rsquo;re using thunderbird, there is a nifty plugin fittingly called Enigmail. Here&rsquo;s a <a href="https://enigmail.wiki/Quick_start">&lsquo;quick start&rsquo; guide in setting this up for various OS&rsquo;s</a>. As mentioned before, it essentially consists of setting up GPG tool on your system, generating a key and using the plugin.</p>
 
-
 <figure>
-    
-        <img src="/images/enigmailscreenshot.png" />
-    
-    
-    <figcaption>
-        <h4>Using Enigmail in Thunderbird adds an enigmail menu item with several options to choose from</h4>
-        
-    </figcaption>
-    
+    <img src="/images/enigmailscreenshot.png"/> <figcaption>
+            <h4>Using Enigmail in Thunderbird adds an enigmail menu item with several options to choose from</h4>
+        </figcaption>
 </figure>
 
 
