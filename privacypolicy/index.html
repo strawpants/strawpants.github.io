@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta name="generator" content="Hugo 0.48" />
+    <meta name="generator" content="Hugo 0.50" />
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         
@@ -29,6 +29,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://wobbly.earth/privacypolicy/" /><meta property="article:published_time" content="2018-05-24T00:00:00&#43;00:00"/>
 <meta property="article:modified_time" content="2018-05-24T00:00:00&#43;00:00"/><meta property="og:site_name" content="Wobbly Earth" />
+
         
          
             <meta property="og:image" content="http://wobbly.earth/images/Screenshot_home_og.png" />
@@ -44,6 +45,29 @@
         <link rel="stylesheet" href="/css/material.min.css"/>
         <link rel="stylesheet" href="/css/styles.css"/>
           
+
+        
+            
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'UA-84784436-1', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
         
         
@@ -107,13 +131,46 @@
 
 <h3 id="your-data-and-wobbly-earth">Your data and wobbly.earth</h3>
 
-<p>I don&rsquo;t collect any personal data currently when you visit wobbly.earth. This may change in the future when I decide to switch on google analytics again and make the website conform with the <a href="https://www.eugdpr.org/">General Data Protection Regulation</a>.</p>
+<p>Wobbly.earth is a static site which is hosted on github servers in the United States of America. The static aspect of the site means that there is no backend linked to this website where I store your data. Which means that I cannot provide you with a copy of your data since I have none in my possession.</p>
+
+<p>Nevertheless, when using this websites connections with other websites, not under my control, may be established. When your browser makes a connection to another webserver, potentially personal data, such as cookies and IP addresses, may be shared. Below I&rsquo;ll explain what connections may be established and how this complies with the <a href="https://www.eugdpr.org/">General Data Protection Regulation</a>.</p>
+
+<h3 id="google-analytics">Google analytics</h3>
+
+<p>This website uses google analytics, so (anonymized IP) information is send to the google servers, which provides me with info how well this site is visited. You can opt out for being tracked in general by google analytics by <a href="https://support.google.com/analytics/answer/181881?hl=en">installing a browser addon</a></p>
+
+<h3 id="embedded-content-and-sharing-buttons">Embedded content and sharing buttons</h3>
+
+<p>You may encounter embedded youtube videos on posts. Your details will not be shared with the youtube servers <strong>unless</strong> you decide to click on the content.</p>
+
+<p>Furthermore, if you see an embedded tweet on wobbly.earth a connection with twitter servers has been made, and cookies may possibly be read. You may consult <a href="https://gdpr.twitter.com">twitter&rsquo;s GDPR policy</a> to see how twitter complies with your rights.</p>
+
+<p>You may see some share buttons for twitter, facebook on the website. Note that I&rsquo;ve implemented these such that they will only establish contact with the sharing services when you decide to <strong>click</strong> on those.</p>
+
+<h3 id="technical-implmentations-using-the-gohugo-static-site-generator">Technical implmentations using the gohugo static site generator</h3>
+
+<p>Technically, how this static website implements the GDPR compliance can be read <a href="https://gohugo.io/about/hugo-and-gdpr/">here</a>. For this site the following settings are made:</p>
+
+<pre><code>privacy:
+    googleAnalytics:
+        anonymizeIP: true
+        disable: false
+        respectDoNotTrack: true
+        useSessionStorage: true
+    twitter:
+        disable: false
+        enableDNT: true
+        simple: false
+    youtube:
+        disable: false
+        privacyEnhanced: true
+</code></pre>
 
 <h4 id="a-note-on-the-social-sharing-buttons">A note on the social sharing buttons</h4>
 
 <p>The social sharing buttons (e.g. share on twitter, facebook etc.) are implemented in such a way that you only contact the respective service providers when you actually decide to share (i.e. click) the content. A consequence of this is that the buttons do not provide any information on the number of shares/likes, but I think that is a small price to pay for your privacy.</p>
 
-<p>24th May 2018</p>
+<p>1st November 2018</p>
 
 
 
